@@ -1,6 +1,6 @@
 import './styles.css'
 
-function Listing() {
+function Form() {
 
     const movie = {
         id: 1,
@@ -40,4 +40,4 @@ function Listing() {
     );
 }
 
-export default Listing;
+export default Form;
