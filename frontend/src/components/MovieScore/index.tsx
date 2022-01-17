@@ -15,4 +15,4 @@ function MovieScore() {
     )
 }
 
-export default MovieScore
+export default MovieScore;
